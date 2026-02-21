@@ -48,8 +48,8 @@ keywords = ["오늘의쇼핑", "특가상품", "데일리픽", "쇼핑추천"]
 images = ["/images/og-default.webp"]
 
 # Search engine verification (set only when needed)
-googleSiteVerification = ""
-naverSiteVerification = ""
+googleSiteVerification = "wYI691jLJJcCGDUHEKLHiMCiG6RGFSbe9-rfyCSjioQ"
+naverSiteVerification = "fdfdb3e5d585daddc86bee767c724eb491474f10"
 bingSiteVerification = ""
 yandexSiteVerification = ""
 
