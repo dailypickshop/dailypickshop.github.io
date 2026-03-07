@@ -1,11 +1,10 @@
 ---
-title: "georgegankasgbox  | Carlyle Bacopa Monnieri Capsules | 1000 mg | 180 Capsules | Gluten F 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'georgegankasgbox  | Carlyle Bacopa Monnieri Capsules | 1000 mg | 180 Capsules | Gluten F 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-04-01
-slug: "georgegankasgbox--Carlyle-Bacopa-Monnieri-Capsules--1000-mg--180-Capsules--Gluten-Free-Supplement-1개-180정-"
-author: Moon
+slug: 'georgegankasgbox--Carlyle-Bacopa-Monnieri-Capsules--1000-mg--180-Capsules--Gluten-Free-Supplement-1개-180정-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, georgegankasgbox]
----
 
 **George Gankas 박스: 모든 게이머를 위한 필수품**
 
