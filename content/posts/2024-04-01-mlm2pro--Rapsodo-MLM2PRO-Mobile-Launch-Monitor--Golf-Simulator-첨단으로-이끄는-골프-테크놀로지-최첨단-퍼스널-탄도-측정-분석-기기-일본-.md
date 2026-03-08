@@ -3,8 +3,9 @@ title: 'mlm2pro  | Rapsodo MLM2PRO Mobile Launch Monitor + Golf Simulator 첨단
 date: 2024-04-01
 slug: 'mlm2pro--Rapsodo-MLM2PRO-Mobile-Launch-Monitor--Golf-Simulator-첨단으로-이끄는-골프-테크놀로지-최첨단-퍼스널-탄도-측정-분석-기기-일본-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, mlm2pro]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'mlm2pro']
+---
 
 ## MLM2PRO: 입소문 마케팅의 숨은 보석
 

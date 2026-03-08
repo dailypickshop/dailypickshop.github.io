@@ -3,8 +3,9 @@ title: '퓨처셀프원서  | The Flute Collection - Easy To Intermediate Level 
 date: 2024-03-31
 slug: '퓨처셀프원서--The-Flute-Collection--Easy-To-Intermediate-Level-플루트-선곡집--초중급-음원-포함-Schirmer-셔머-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 퓨처셀프원서]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '퓨처셀프원서']
+---
 
 ## '퓨처셀프원서'로 미래의 자신을 디자인하세요!
 
